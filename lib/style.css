@@ -1,0 +1,81 @@
+<style type="text/css">
+
+body{
+	background-image:url('imgsite/background2.jpg');
+}
+
+#wrapper{
+		border-style:solid;
+		height: auto;
+		width: 960px;
+		background-color:white;
+		text-align:left;	
+		border-color:black;
+		border-width:15px;
+		margin: 0 auto;
+}
+
+#header {
+	
+	
+}
+#nav {
+color:black;
+font-family:"Times New Roman", Times, serif;
+text-align:center;
+font-size:1em;
+border-color:white;
+border-bottom : 1px solid black;
+font-weight:570;
+text-decoration:none;
+margin: 0px 80px 0px 80px;
+}
+
+#nav a {
+display:inline;
+text-decoration:none;
+color:black;
+
+}
+
+#nav a:hover {
+text-decoration:none;
+color:#b3b3b3;
+}
+
+#content {
+width:675px;
+float:left;
+padding:10px;
+
+}
+#sidebar {
+width:200px;
+float:right;
+margin-bottom:25px;
+
+}
+
+#sidebar a {
+text-decoration:none;
+
+}
+
+#sidebar li {
+list-style:none;
+}
+ 
+#footer {
+clear:both;
+background-color:black;
+text-align:center;
+color:#fee1ff;
+width:960px;
+margin: 10px 0px 0px 0px;
+font-size:0.9em;
+}
+
+
+
+
+</style>
